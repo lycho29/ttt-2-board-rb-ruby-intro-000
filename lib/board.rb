@@ -2,16 +2,16 @@
 board = "board"
 
 # Row 1 
-row_1 = [" ", " ", " "]
+board = [" ", " ", " "]
 
 # Position 1: Left
-row_1[0]
+board[0]
 
 # Position 2: Middle
-row_1[1]
+board[1]
 
 # Position 3: Right
-row_1[2]
+board[2]
 
 
 # Row 2 
