@@ -1,17 +1,17 @@
 # Define the variable board below.
-Array = "board"
+board = "board"
 
 # Row 1 
 row_1 = [" ", " ", " "]
 
 # Position 1: Left
-row_1[0]
+boardrow_1[0]
 
 # Position 2: Middle
-row_1[1]
+boardrow_1[1]
 
 # Position 3: Right
-row_1[2]
+boardrow_1row_1[2]
 
 
 # Row 2 
