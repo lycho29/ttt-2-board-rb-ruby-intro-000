@@ -22,15 +22,12 @@ board[4]
 # Position 6: Right
 board[5]
 
+# Position 7: Left
+board[6]
 
-# Row 3
-row_3 = [" ", " ", " "]
+# Position 8: Middle
+board[7]
 
-# Position 1: Left
-row_3[0]
+# Position 9: Right
+board[8]
 
-# Position 2: Middle
-row_3[1]
-
-# Position 3: Right
-row_3[2]
